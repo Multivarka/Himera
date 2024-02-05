@@ -1,0 +1,158 @@
+
+2023-12-27 10:18:04.069295: @dashadtv startstart
+2023-12-11 18:52:25.539885: @performance_artist1 sum = 12831090000001000
+2023-12-11 18:52:51.278977: @performance_artist1 sum = 62281
+2023-12-11 18:53:01.952134: @performance_artist1 sum = 61012
+2023-12-12 07:28:20.687942: @Poseyt start
+2023-12-12 07:28:43.845165: @Poseyt sum = 6666668107
+2023-12-12 07:29:34.514643: @HimeraStoreBot start
+2023-12-12 09:29:03.461282: @GregVtor sum = 9815
+2023-12-12 12:08:34.744342: @babykyoda error calc mass
+2023-12-12 12:08:42.361287: @babykyoda start
+2023-12-12 12:09:08.101350: @HimeraStoreBot start
+2023-12-12 12:09:16.350789: @babykyoda sum = 10945
+2023-12-12 14:40:19.124606: @X_X_X_X_X_n5 start
+2023-12-12 14:40:54.653874: @HimeraStoreBot start
+2023-12-12 20:06:49.910315: @himeramanager sum = 14892
+2023-12-12 21:38:13.185477: @w_dark start
+2023-12-12 21:38:31.638198: @HimeraStoreBot start
+2023-12-12 21:48:07.664177: @HimeraStoreBot start
+2023-12-13 08:34:55.639468: @GregVtor start
+2023-12-13 08:59:07.049680: @HimeraStoreBot start
+2023-12-13 13:34:56.816539: @helensiaain start
+2023-12-13 14:17:38.517165: @babykyoda sum = 414476
+2023-12-13 14:17:51.109439: @babykyoda sum = 10945
+2023-12-13 14:25:02.988708: @crexyJJJ start
+2023-12-13 19:23:46.309918: @angelaaaaaaa start
+2023-12-13 19:26:41.454661: @angelaaaaaaa sum = 8923
+2023-12-13 19:33:15.299534: @uliianushka start
+2023-12-13 20:24:50.942966: @kittykatyaa start
+2023-12-13 20:25:27.325467: @HimeraStoreBot start
+2023-12-13 20:25:44.802946: @kittykatyaa error calc mass
+2023-12-13 20:25:54.897925: @kittykatyaa error calc mass
+2023-12-13 20:26:08.793167: @kittykatyaa sum = 428615
+2023-12-13 20:33:17.208076: @himeramanager sum = 5677
+2023-12-13 20:52:39.086720: @None start
+2023-12-13 20:52:45.060967: @HimeraStoreBot start
+2023-12-14 06:49:55.191286: @ghxstzxc start
+2023-12-14 06:50:30.390214: @ghxstzxc sum = 4738
+2023-12-14 15:47:59.639795: @angelaaaaaaa start
+2023-12-14 15:48:13.016101: @angelaaaaaaa sum = 8504
+2023-12-14 15:50:32.417029: @HimeraStoreBot start
+2023-12-14 20:38:42.042459: @w_dark sum = 11868
+2023-12-14 20:38:46.138318: @flux_dsn sum = 496668
+2023-12-14 20:38:50.180969: @flux_dsn sum = 12468
+2023-12-14 20:54:49.724990: @w_dark sum = 5855
+2023-12-15 15:29:06.373692: @himeramanager sum = 21988
+2023-12-17 12:48:21.438198: @babykyoda sum = 10564
+2023-12-18 16:22:40.527164: @Aficergro start
+2023-12-18 16:25:33.024553: @HimeraStoreBot start
+2023-12-18 16:25:54.955564: @Aficergro sum = 2869
+2023-12-18 16:36:00.398187: @Aficergro sum = 2269
+2023-12-18 16:37:32.624860: @HimeraStoreBot start
+2023-12-18 16:37:58.944125: @HimeraStoreBot start
+2023-12-18 16:42:00.004739: @HimeraStoreBot start
+2023-12-18 16:42:13.997356: @Aficergro sum = 73926
+2023-12-19 10:25:44.802620: @MaskTag start
+2023-12-19 10:30:05.867808: @None start
+2023-12-19 10:51:11.188516: @Perchik2007 start
+2023-12-19 10:51:18.528599: @HimeraStoreBot start
+2023-12-19 10:55:53.144819: @HimeraStoreBot start
+2023-12-20 12:17:48.103644: @HimeraStoreBot start
+2023-12-20 12:17:53.686470: @babykyoda sum = 12341
+2023-12-20 16:16:13.580004: @Vanusha735 start
+2023-12-20 23:52:53.690510: @MaskTag sum = 5280
+2023-12-20 23:53:08.423070: @MaskTag start
+2023-12-21 11:57:06.297987: @HimeraStoreBot start
+2023-12-21 11:57:12.019690: @babykyoda sum = 13623
+2023-12-21 18:23:55.889855: @babykyoda sum = 10564
+2023-12-21 21:52:40.631115: @Aficergro error calc mass
+2023-12-21 21:53:08.651197: @HimeraStoreBot start
+2023-12-21 21:53:15.205638: @HimeraStoreBot start
+2023-12-21 21:53:27.587171: @HimeraStoreBot start
+2023-12-21 21:54:13.795246: @Aficergro sum = 2348
+2023-12-21 21:54:47.510461: @HimeraStoreBot start
+2023-12-21 21:54:59.858104: @HimeraStoreBot start
+2023-12-21 21:55:07.463118: @Aficergro sum = 4595
+2023-12-21 21:56:28.575457: @Aficergro sum = 1612
+2023-12-21 21:57:20.432809: @Aficergro sum = 4341
+2023-12-22 01:34:00.778551: @zovimenyaOZZ error calc mass
+2023-12-22 01:34:00.855807: @zovimenyaOZZ error calc mass
+2023-12-22 01:34:00.862507: @zovimenyaOZZ error calc mass
+2023-12-22 01:34:10.794915: @zovimenyaOZZ sum = 13506
+2023-12-22 01:34:10.879690: @zovimenyaOZZ sum = 13506
+2023-12-22 09:32:33.732500: @babykyoda sum = 12214
+2023-12-22 21:58:27.146262: @HimeraStoreBot start
+2023-12-22 21:58:32.055022: @babykyoda sum = 11338
+2023-12-22 22:08:02.838628: @HimeraStoreBot start
+2023-12-22 22:08:19.784078: @babykyoda sum = 10602
+2023-12-22 22:08:29.562775: @babykyoda sum = 9485
+2023-12-23 13:19:04.767576: @himeramanager sum = 27585
+2023-12-23 16:33:20.927332: @HimeraStoreBot start
+2023-12-23 16:33:33.875927: @GregVtor sum = 9215
+2023-12-24 00:15:39.979216: @himeramanager sum = 19208
+2023-12-24 17:15:32.805074: @Xairov_Anton start
+2023-12-24 17:15:50.568256: @Xairov_Anton error calc mass
+2023-12-24 17:16:00.191135: @Xairov_Anton sum = 14892
+2023-12-24 17:16:19.893012: @Xairov_Anton start
+2023-12-25 00:53:12.273716: @babykyoda sum = 9803
+2023-12-25 01:06:54.553808: @Aficergro start
+2023-12-25 01:07:20.166038: @Aficergro sum = 10603
+2023-12-25 08:39:16.687329: @yanOckha start
+2023-12-25 08:39:17.196458: @GregVtor start
+2023-12-25 08:39:17.235143: @GregVtor start
+2023-12-25 17:00:03.195127: @GregVtor start
+2023-12-25 18:08:42.230012: @dashadtv start
+2023-12-25 18:08:50.471051: @HimeraStoreBot start
+2023-12-25 19:50:19.495463: @Xairov_Anton start
+2023-12-25 19:58:12.002353: @dashadtv sum = 8395
+2023-12-25 19:58:34.599429: @dashadtv sum = 8395
+2023-12-25 19:59:10.810974: @dashadtv sum = 1612
+2023-12-25 19:59:19.879864: @dashadtv sum = 1612
+2023-12-25 19:59:26.827158: @dashadtv sum = 1612
+2023-12-25 19:59:30.898821: @dashadtv error calc sum
+2023-12-25 19:59:42.207604: @HimeraStoreBot start
+2023-12-25 19:59:50.070446: @dashadtv sum = 7795
+2023-12-25 21:08:01.266440: @HimeraStoreBot start
+2023-12-25 21:08:19.361695: @dashadtv sum = 3772
+2023-12-25 22:25:00.950014: @dashadtv sum = 1897
+2023-12-25 22:25:35.656947: @dashadtv sum = 1897
+2023-12-26 09:46:25.701838: @HimeraStoreBot start
+2023-12-26 18:34:19.407753: @HimeraStoreBot start
+2023-12-27 10:18:04.068996: @dashadtv start
+2023-12-27 10:18:04.710401: @dashadtv start
+2023-12-27 10:18:04.718968: @dashadtv start
+2023-12-27 10:18:05.076926: @dashadtv start
+2023-12-27 10:18:05.098946: @dashadtv start
+2023-12-27 10:18:05.373499: @dashadtv start
+2023-12-27 10:18:05.393386: @dashadtv start
+2023-12-27 10:18:05.639444: @dashadtv start
+2023-12-27 10:18:05.653101: @Poseyt start
+2023-12-27 10:18:05.867703: @Poseyt start
+2023-12-27 10:18:15.146053: @HimeraStoreBot start
+2023-12-27 12:38:31.096703: @Poseyt sum = 1959
+2023-12-27 12:38:41.649774: @Poseyt sum = 2088
+2023-12-27 12:38:53.659519: @Poseyt sum = 1359
+2023-12-27 13:14:53.783803: @babykyoda error calc mass
+2023-12-27 13:15:08.108649: @babykyoda sum = 9894
+2023-12-27 16:36:52.796595: @babykyoda start
+2023-12-29 14:43:11.895976: @GregVtor sum = 10206
+2023-12-30 06:24:16.854207: @Aficergro sum = 10712
+2024-01-03 20:43:38.685950: @vilka_zebra start
+2024-01-03 20:52:27.991968: @kostyl7777 start
+2024-01-04 13:00:53.095717: @Grisha_Grechishkin start
+2024-01-04 13:01:08.480991: @Grisha_Grechishkin sum = 11366
+2024-01-04 17:00:03.498798: @GregVtor start
+2024-01-05 19:09:27.904334: @berbabobra start
+2024-01-05 19:10:45.374960: @HimeraStoreBot start
+2024-01-05 19:12:11.529478: @berbabobra sum = 6292
+2024-01-05 19:16:45.232978: @berbabobra sum = 10538
+2024-01-05 19:17:06.473612: @HimeraStoreBot start
+2024-01-05 19:17:09.135557: @HimeraStoreBot start
+2024-01-05 19:17:09.175398: @HimeraStoreBot start
+2024-01-05 19:17:25.423513: @HimeraStoreBot start
+2024-01-10 09:25:39.119919: @w_dark sum = 65302
+2024-01-10 12:48:49.916103: @w_dark start
+2024-01-10 12:49:00.461447: @w_dark sum = 90783
+2024-01-10 12:51:42.091358: @w_dark sum = 78043
+2024-01-10 12:51:42.265411: @w_dark sum = 78043
